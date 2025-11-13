@@ -1,5 +1,6 @@
 # UI-UX-Experiment4
-
+# Name: JUDETARUN
+# REG:212224040144
 ## Aim: To Design a wireframe diagram for a generic application or website using Balsamiq
 
 ## Algorithm:
